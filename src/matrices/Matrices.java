@@ -1,10 +1,10 @@
-
 package matrices; 
 import java.util.Scanner;
 
 public class Matrices { 
 
     final static int tamanyo=3;
+    //HOLAAAAAAAAAAAAAAAAAA
     public static void main(String[] args) { 
         int[][] matriz=new int[tamanyo][tamanyo];
         rellenarMatriz(matriz);
